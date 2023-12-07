@@ -1,3 +1,12 @@
+
+    /* 
+Enter a number (n): 5
+Numbers from 5 to 1 are:
+5
+
+    */
+
+
 #include <stdio.h>
 
 int main() {
